@@ -63,6 +63,9 @@ Este projeto foi desenvolvido durante a Trilha Impulse, desenhada para quem já 
 
 Todo o layout utilizado no projeto Web e Mobile estão nesse [link](https://www.figma.com/community/file/1031699316177416916), ambos foram criados utilizando o [Figma](https://www.figma.com).
 
+[Aula 1](https://youtu.be/Wg7EuMtk7FE)<br>
+[Aula 2](https://youtu.be/_MIXek7GYmg)<br>
+
 <a href="#-pre-requisitos"> </a>
 
 # 🎲 Pré-Requisitos
