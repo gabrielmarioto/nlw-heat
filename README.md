@@ -22,10 +22,10 @@
 
 <p align="center">
  <a href="#-next-level-week">Next Level Week</a> | 
- <a href="#-projeto">Projeto</a> |
+ <a href="#%EF%B8%8F-projeto">Projeto</a> |
  <a href="#-layout">Layout</a> |
  <a href="#-pré-requisitos">Pré-Requisitos</a> |
- <a href="#-tecnologias">Tecnologias</a> |
+ <a href="#%EF%B8%8F-tecnologias">Tecnologias</a> |
  <a href="#-aluno">Aluno</a> |
 </p>
 
