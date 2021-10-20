@@ -7,7 +7,8 @@ import { router } from "./routes";
 
 const app = express();
 
-app.use(express.json()).use(router).use(cors());
+app.use(cors());
+app.use(express.json()).use(router);
 
 const serverHttp = http.createServer(app);
 const io = new Server(serverHttp, {
