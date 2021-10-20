@@ -15,8 +15,10 @@
 <br>
 <img src="https://img.shields.io/static/v1?label=SQLite&message=DB&color=003B57&style=for-the-badge&logo=SQLite"/>
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=TypeScript&color=3178C6&style=for-the-badge&logo=TypeScript"/>
-<img src="https://img.shields.io/static/v1?label=VSCode&message=Dev&color=007ACC&style=for-the-badge&logo=Visual Studio Code"/>
 <img src="https://img.shields.io/static/v1?label=Prisma&message=ORM&color=2D3748&style=for-the-badge&logo=Prisma"/>
+<img src="https://img.shields.io/static/v1?label=Socket.io&message=IO&color=010101&style=for-the-badge&logo=Socket.io"/>
+<img src="https://img.shields.io/static/v1?label=Express&message=Express&color=000000&style=for-the-badge&logo=Express"/>
+<img src="https://img.shields.io/static/v1?label=VSCode&message=Dev&color=007ACC&style=for-the-badge&logo=Visual Studio Code"/>
 
 ---
 
@@ -96,7 +98,14 @@ $ yarn dev
 ## Front End
 
 ```bash
-# Em breve
+# Vá para a pasta do cliente
+$ cd web
+
+# Instale as dependências
+$ yarn install
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn dev
 ```
 
 ## Mobile
@@ -115,17 +124,23 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJs](https://nodejs.org/pt-br/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Express](https://expressjs.com/pt-br/)
 - [ESlint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Prisma](https://www.prisma.io/)
 - [Cors](https://www.npmjs.com/package/cors)
 - [Vite](https://vitejs.dev/)
+- [Socket.io](https://socket.io/)
+- [Sass](https://sass-lang.com/)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [jsonwebtoken](https://jwt.io/)
 - [VSCode](https://code.visualstudio.com/)
 
 <a href="#-aluno"> </a>
 
-# 🙍 Aluno
+# 🙅‍♂️ Aluno
 
 <h1 align="center">
 <a href="https://www.linkedin.com/in/gabriel-marioto/">
