@@ -120,6 +120,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Prisma](https://www.prisma.io/)
 - [Cors](https://www.npmjs.com/package/cors)
+- [Vite](https://vitejs.dev/)
 - [VSCode](https://code.visualstudio.com/)
 
 <a href="#-aluno"> </a>
